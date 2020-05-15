@@ -1,0 +1,5 @@
+Predict between a Cat or a Dog. The dataset contains 10000 images, 5000 belonging to Cats and the rest 5000 belonging to Dogs. The training_set contains 8000 images while the test_set contains 2000 images.
+
+Download Datasets From Given Below Link:
+
+https://www.kaggle.com/c/dogs-vs-cats/data
